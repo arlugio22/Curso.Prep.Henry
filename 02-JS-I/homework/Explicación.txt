@@ -1,0 +1,13 @@
+Variables: Es un lugar que sirve para guardar el significado o el valor de una palabra, así cuando más tarde la querramos usar, solo la tenemos que llamar y la variable nos recuerda qué significaba o cuánto valía.
+
+Strings: Son letras o palabras, que cuando las encerramos entre comillas, para JavaScript, pasan a llamarse strings y pasan a tener el valor de una palabra.
+
+Funciones: Nos facilita el trabajo, para no tener que escribir muchas veces lo mismo.
+  Argumentos: Son los valores que se le van a poder poner dentro de la función una vez que esté lista para que haga su trabajo.
+  Return: Le da un fin a lo que le pedimos que haga, devolviendo el valor de ese pedido.
+
+Declaraciones if: Las usamos cuando necesitamos que el programa tome por uno u otro camino según se cumpla la condición que le pidamos.
+
+Booleanos: Los usamos cuando necesitamos que JavaScript nos determine si el dato que le damos es verdadero o falso.
+  True: Cuando la respuesta es verdadera JavaScript nos responde de esta forma.
+  False: Cuando la respuesta no es verdadera JavaScript la llama de esta otra manera.  
