@@ -1,0 +1,1 @@
+Arreglos: Son variables especiales, porque son capaces de almacenar una lista de valores de cualquier tipo, hasta funciones. Se puede acceder a esta lista para usarla, analizarla internamente, y hasta para modificarla agregando o quitando elementos.
