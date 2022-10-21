@@ -1,0 +1,1 @@
+Funciones Callback: Cuando pasamos una función dentro de otra función como argumento le llamamos Callback. A estas funciones las podemos llamar cuando querramos y pasarles argumentos dentro de la función, y vamos a hacer referencia a ellas con la abreviatura "cb" como argumento dentro de la función en la que las querramos usar.  
